@@ -22,7 +22,7 @@ services:
       args:
         #- PATH_PREFIX=
         #- API_URL=
-        - BRANDING_HEADER_TITLE_TEXT=Kilta ry ilmomasiina
+        - BRANDING_HEADER_TITLE_TEXT=BY ilmomasiina
         - BRANDING_HEADER_TITLE_TEXT_SHORT=Ilmomasiina
         - BRANDING_FOOTER_GDPR_TEXT=Tietosuoja
         - BRANDING_FOOTER_GDPR_LINK=http://example.com/privacy
